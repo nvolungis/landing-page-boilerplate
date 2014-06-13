@@ -1,0 +1,14 @@
+@import 'assets/sass/bourbon/bourbon';
+
+.section {
+  margin: 0 auto;
+  max-width: 1000px;
+  @include box-sizing(border-box);
+
+  @media screen and (min-width: 700px){
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
+
+

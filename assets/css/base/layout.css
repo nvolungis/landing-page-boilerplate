@@ -1,0 +1,22 @@
+@media screen and (min-width: 700px) {
+  .pull-left {
+    float: left; } }
+
+@media screen and (min-width: 700px) {
+  .pull-right {
+    float: right; } }
+
+.pull-right-always {
+  float: right; }
+
+@media screen and (min-width: 700px) {
+  .w50 {
+    width: 49%; } }
+
+@media screen and (min-width: 700px) {
+  .w33 {
+    width: 32%; } }
+
+@media screen and (min-width: 700px) {
+  .w66 {
+    width: 65%; } }

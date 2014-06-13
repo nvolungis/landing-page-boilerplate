@@ -1,0 +1,34 @@
+.pull-left {
+  @media screen and (min-width: 700px){
+    float: left;
+  }
+}
+
+.pull-right {
+  @media screen and (min-width: 700px){
+    float: right;
+  }
+}
+
+.pull-right-always {
+  float: right;
+}
+
+
+.w50 {
+  @media screen and (min-width: 700px){
+    width: 49%;
+  }
+}
+
+.w33 {
+  @media screen and (min-width: 700px){
+    width: 32%;
+  }
+}
+
+.w66 {
+  @media screen and (min-width: 700px){
+    width: 65%;
+  }
+}
